@@ -64,7 +64,7 @@
     -moz-box-shadow: 10px 9px 25px -14px rgba(0,0,0,0.75);
     box-shadow: 10px 9px 25px -14px rgba(0,0,0,0.75);
 }
-img{
+.bottons img{
     width: 1rem;
 }
 #bt_ver{
@@ -89,4 +89,7 @@ img{
     margin-top: 2rem;
     text-align: center;
 
+}
+.img-niño{
+    width: 45rem;
 }
