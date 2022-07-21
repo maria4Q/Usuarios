@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+    font-family: 'Inter', sans-serif;
+    background-image: url(https://github.com/MariaR17/vector/blob/main/3561810.jpg?raw=true);
+}

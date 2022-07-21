@@ -1,0 +1,92 @@
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.names{
+    background-color: white;
+    border-radius: 3rem;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 50rem;
+    height: 40rem;
+    padding: 2rem;
+    margin-top: 12rem;
+
+    -webkit-box-shadow: 9px -4px 47px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px -4px 47px -11px rgba(0,0,0,0.75);
+    box-shadow: 9px -4px 47px -11px rgba(0,0,0,0.75);
+ 
+}
+.conteiner-title{
+    border: 2px solid black;
+    width: 35rem;
+    padding: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    margin-left: 5rem;
+}
+.bottons{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    
+}
+.conteiner-button{  
+    width: 12rem;
+    height: 4rem;
+    margin-top: 5rem;
+    background-color:yellowgreen;
+    color: black;
+    border-radius: 2rem;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+}
+.form input{
+    text-align: center;
+    width: 25rem;
+    height: 4rem;
+    outline: none;
+    border: 4px solid gray;
+    margin-left: 2.5rem;
+    font-size: 1.2rem;
+    margin-top: 4rem;
+    margin-left: 10rem;
+    font-family: 'Inter', sans-serif;
+    padding-left: 2rem;
+    border-radius: 2rem;
+    border-color:  #F8F8F8;
+    margin-bottom: 4rem;
+    -webkit-box-shadow: 10px 9px 25px -14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 25px -14px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 25px -14px rgba(0,0,0,0.75);
+}
+img{
+    width: 1rem;
+}
+#bt_ver{
+    width: 12rem;
+    height: 4rem;
+    margin-top: 1rem;
+    margin-left: 16.5rem;
+    background-color:aquamarine;
+    color: black;
+    border-radius: 4rem;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+}
+.diseño{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+    font-weight: 200;
+}
+.diseño2{
+    font-size: 2rem;
+    margin-top: 2rem;
+    text-align: center;
+
+}

@@ -1,0 +1,15 @@
+#root{
+    border: 2px solid black;
+    width: 50rem;
+    height: 40rem;
+    padding: 2rem;
+    margin-top: 12rem;
+    border-radius: 3rem;
+    background-color: white;
+
+    -webkit-box-shadow: 9px -4px 47px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px -4px 47px -11px rgba(0,0,0,0.75);
+    box-shadow: 9px -4px 47px -11px rgba(0,0,0,0.75);
+
+   
+}
